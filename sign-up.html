@@ -34,7 +34,39 @@
         <p>We strongly recommend you to register to make sure you won’t lose your spot.</p> 
         <p>Every participant must be in possession of Green Pass, which will be requested at the entrance.</p>
     </section>
-    <section>Sign up form</section>
+    <section>
+        <form action="https://forumdump.codeinstitute.net" method="post">
+            <fieldset id="sign-form">
+                <legend><h2>Sign Up</h2></legend>
+                <div>
+                    <label for="name">Name</label>
+                    <input type="text" name="name" placeholder="Your Name" required>
+                </div>
+                <div>
+                    <label for="surname">Surname</label>
+                    <input type="text" name="surname" placeholder="Your Surname" required>
+                </div>
+                <div>
+                    <label for="email">Email</label>
+                    <input type="email" name="email" placeholder="Your Email" required>
+                </div>
+                <div>
+                    <label for="number-people">Number of Participants</label>
+                    <select name="number-people" id="number-people">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+                <div>
+                    <button type="submit">Submit</button>
+                </div>
+            </fieldset>
+
+        </form>
+    </section>
     <section>Festival location map</section>
     <footer>
         <ul class="socials">
