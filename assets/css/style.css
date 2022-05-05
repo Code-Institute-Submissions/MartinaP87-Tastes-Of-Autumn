@@ -18,7 +18,6 @@ body {
     background-position: right top;
     background-size: contain;
     background-repeat: repeat-y;
-    background-blend-mode: lighten;
 }
 
 header {
@@ -145,4 +144,15 @@ td > h4 {
 caption {
     padding-bottom: 20px;
     float: left;
+}
+#end-leaves {
+    background-image: url('../images/signup-page.jpg');
+    background-position: right bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#festival-tent > img {
+    width: 100%;
+    height: 500px;
 }
