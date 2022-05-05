@@ -12,6 +12,7 @@ h1, h2, h3, h4 {
 }
 body {
     font-family: 'Cormorant Upright', serif;
+    color: #813827;
     font-weight: bold;
     font-size: larger;
     background-image: url(../images/leaves.jpg);
@@ -83,6 +84,7 @@ header {
  .menu {
      text-align: center;
      padding-top: 40px;
+     background-color: white;
  }
  .link-box h3 {
     text-align: left;
@@ -195,5 +197,14 @@ button:focus {
     background-color: #813827;
     color: beige;
 }
-    
-     
+
+iframe {
+    width: 600px;
+    height: 350px;
+    margin: 0 0 20px 80px;
+    border: 2px solid #813827;
+
+}
+#location {
+    padding: 80px 80px 20px 80px;
+}
