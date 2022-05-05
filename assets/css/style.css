@@ -14,9 +14,15 @@ body {
     font-family: 'Cormorant Upright', serif;
     font-weight: bold;
     font-size: larger;
+    background-image: url(../images/leaves.jpg);
+    background-position: right top;
+    background-size: contain;
+    background-repeat: repeat-y;
+    background-blend-mode: lighten;
 }
+
 header {
-    margin: 30px;
+    margin: 16px;
 }
 #logo {
     float:left;
@@ -55,7 +61,7 @@ header {
 }
 #introduction {
     width: 50%;
-    padding: 40px;
+    padding: 80px;
 }
 #introduction > p {
     padding-top: 3%;
