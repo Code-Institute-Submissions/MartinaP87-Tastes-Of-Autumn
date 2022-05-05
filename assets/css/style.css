@@ -94,3 +94,22 @@ header {
 .square-menu a {
     color: #401b0c;
 }
+footer {
+    height: 120px;
+    background-image: url(../images/footer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.socials {
+    text-align: center;
+    height: 120px;
+}
+.socials > li {
+display: inline;
+}
+.socials i {
+font-size: 300%;
+
+padding: 2% 5% 0 5%;
+color: #401b0c;
+}
