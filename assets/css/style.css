@@ -113,3 +113,16 @@ font-size: 300%;
 padding: 2% 5% 0 5%;
 color: #401b0c;
 }
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 6;
+    column-gap: 0;
+    margin-top: 60px;
+    background-color: white;
+    
+}
+#photos > img {
+    width: 100%;
+}
