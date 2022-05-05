@@ -161,3 +161,39 @@ caption {
     font-size: 300%;
     font-weight: bold;
 }
+#sign-form { 
+    width: fit-content; 
+    margin-left: 80px; 
+    border: 2px solid #813827; 
+    padding: 40px 70px; 
+    } 
+    
+#sign-form input { 
+    border: 1px solid #813827;  
+    margin: 5px 0 10px 20px; 
+    display: inline-block; 
+    } 
+    
+#sign-form div { 
+     padding-top: 3%; 
+    }
+    
+button {
+    background-color: #401b0c;
+    color: beige;
+    font-family: fantasy, 'Cormorant Unicase', serif;;
+    font-weight: 900;
+    float: right;
+    border-radius: 25%;
+    padding: 10px;
+}
+button:hover {
+    background-color: beige;
+    color:#401b0c;
+}
+button:focus {
+    background-color: #813827;
+    color: beige;
+}
+    
+     
