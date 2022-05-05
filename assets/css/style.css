@@ -32,3 +32,11 @@ header {
     font-size: 120%;
     font-family: fantasy, 'Cormorant Unicase', serif;;
 }
+#hero-image { 
+    height: 600px;
+    width: 100%;
+    clear: both;
+    background-image: url("../images/home-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
