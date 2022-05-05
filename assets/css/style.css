@@ -38,7 +38,7 @@ header {
     margin-right: 10px;
     color:#401b0c;
     font-size: 120%;
-    font-family: fantasy, 'Cormorant Unicase', serif;;
+    font-family: fantasy, 'Cormorant Unicase', serif;
 }
 #hero-image { 
     height: 400px;
@@ -69,4 +69,28 @@ header {
 #byword {
     padding: 60px 50% 60px 40px;
     text-align: right;
+}
+.square-menu {
+    display: inline-block;
+     width: 110px;
+     height: 110px;
+     border-radius: 25%;
+     background-image: url(../images/pumpkins.jpg);
+     background-repeat: no-repeat;
+     background-size: 100%;
+     margin-right: 30px;
+     
+ }
+ #menu-links {
+     text-align: center;
+     padding-top: 40px;
+ }
+ .square-menu h3 {
+    text-align: left;
+    font-family: 'Cormorant Unicase', serif;
+    font-weight: bold; 
+    padding: 50px 0 3px 3px;  
+}
+.square-menu a {
+    color: #401b0c;
 }
