@@ -11,7 +11,9 @@ h1, h2, h3, h4 {
     
 }
 body {
-    font-family: 'Cormorant Unicase', serif;
+    font-family: 'Cormorant Upright', serif;
+    font-weight: bold;
+    font-size: larger;
 }
 header {
     margin: 30px;
@@ -33,20 +35,32 @@ header {
     font-family: fantasy, 'Cormorant Unicase', serif;;
 }
 #hero-image { 
-    height: 600px;
+    height: 400px;
     width: 100%;
     clear: both;
     background-image: url("../images/home-background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    font-size: 200%;
+    font-size: 150%;
     padding-top: 10%;
 }
 #hero-image > div {
-   padding-bottom: 12%;
+    padding-bottom: 85px;
+
 }
 #hero-image h1 {
     font-size: 300%;
     font-weight: bolder;
+}
+#introduction {
+    width: 50%;
+    padding: 40px;
+}
+#introduction > p {
+    padding-top: 3%;
+}
+#byword {
+    padding: 60px 50% 60px 40px;
+    text-align: right;
 }
