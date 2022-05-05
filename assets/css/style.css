@@ -39,4 +39,14 @@ header {
     background-image: url("../images/home-background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    text-align: center;
+    font-size: 200%;
+    padding-top: 10%;
+}
+#hero-image > div {
+   padding-bottom: 12%;
+}
+#hero-image h1 {
+    font-size: 300%;
+    font-weight: bolder;
 }
