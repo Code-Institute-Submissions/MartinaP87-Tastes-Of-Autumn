@@ -44,7 +44,7 @@ header {
     height: 400px;
     width: 100%;
     clear: both;
-    background-image: url("../images/signup-page.webp");
+    background-image: url("../images/home-background.webp");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -61,14 +61,16 @@ header {
 }
 .info {
     width: 50%;
-    padding: 80px;
+    padding: 80px 80px 60px 80px;
 }
 .info > p {
     padding-top: 3%;
+    background-color: #f5f5dcd6;
 }
 #byword {
-    padding: 60px 50% 60px 40px;
+    margin: 0 44% 60px 37%;
     text-align: right;
+    background-color: #f5f5dcd6;
 }
 
 .link-box {
