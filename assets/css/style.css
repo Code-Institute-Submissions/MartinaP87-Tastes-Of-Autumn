@@ -55,8 +55,8 @@ header {
     padding-bottom: 85px;
 
 }
-#hero-image h1 {
-    font-size: 300%;
+#hero-image h2 {
+    font-size: 220%;
     font-weight: bolder;
 }
 .info {
@@ -146,6 +146,12 @@ td, th {
 td > h4 {
     padding: 0 30px;
 }
+.tab th {
+    font-weight: bold;
+    font-size: 160%;
+    font-family: fantasy, 'Cormorant Unicase', serif;
+    color: #401b0c;
+}
 caption {
     padding-bottom: 20px;
     float: left;
@@ -162,7 +168,7 @@ caption {
     height: 66%;
 }
 
-.info > h1 {
+.info > h2 {
     font-size: 300%;
     font-weight: bold;
 }
@@ -233,7 +239,7 @@ iframe {
     #hero-image h1 {
         font-size: 150%;
     }
-    .info > h1 {
+    .info > h2 {
         font-size: 150%;
         padding-bottom: 20px;
     }
