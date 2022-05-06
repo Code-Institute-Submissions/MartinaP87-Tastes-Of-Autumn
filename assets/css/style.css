@@ -211,3 +211,26 @@ iframe {
 #location {
     padding: 80px 80px 20px 80px;
 }
+
+
+@media screen and (max-width: 673px) {
+    header {
+        margin: 5px;
+    }
+    #nav-bar a {
+        font-size: 80%;
+    }
+    #logo {
+        font-size: 80%;
+    }
+    #hero-image {
+        height: 200px;
+        font-size: 100%;
+    }
+    #hero-image > div {
+        padding-bottom: 40px;
+    }
+    #hero-image h1 {
+        font-size: 150%;
+    }
+}
