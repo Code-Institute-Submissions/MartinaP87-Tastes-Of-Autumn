@@ -91,9 +91,9 @@ header {
  }
  .link-box h3 {
     text-align: left;
-    font-family: 'Cormorant Unicase', serif;
+    font-family: fantasy, 'Cormorant Unicase', serif;
     font-weight: bold; 
-    padding: 50px 0 3px 3px;  
+    padding: 50px 0 3px 3px;
 }
 .link-box a {
     color: #401b0c;
@@ -130,7 +130,7 @@ color: #401b0c;
 #photos > img {
     width: 100%;
 }
-.menu > h1 {
+.menu > h2 {
     font-size: 400%;
     font-weight: bolder;
 }
