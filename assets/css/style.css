@@ -15,14 +15,14 @@ body {
     color: #813827;
     font-weight: bold;
     font-size: larger;
-    background-image: url(../images/leaves.jpg);
+    background-image: url(../images/leaves.webp);
     background-position: right top;
     background-size: contain;
     background-repeat: repeat-y;
 }
 
 header {
-    margin: 16px;
+    margin: 30px;
 }
 #logo {
     float:left;
@@ -44,7 +44,7 @@ header {
     height: 400px;
     width: 100%;
     clear: both;
-    background-image: url("../images/home-background.jpg");
+    background-image: url("../images/signup-page.webp");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -70,12 +70,13 @@ header {
     padding: 60px 50% 60px 40px;
     text-align: right;
 }
+
 .link-box {
     display: inline-block;
      width: 110px;
      height: 110px;
      border-radius: 25%;
-     background-image: url(../images/pumpkins.jpg);
+     background-image: url(../images/pumpkins.webp);
      background-repeat: no-repeat;
      background-size: 100%;
      margin-right: 30px;
@@ -97,7 +98,7 @@ header {
 }
 footer {
     height: 120px;
-    background-image: url(../images/footer.jpg);
+    background-image: url(../images/footer.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -148,7 +149,7 @@ caption {
     float: left;
 }
 #end-leaves {
-    background-image: url('../images/signup-page.jpg');
+    background-image: url('../images/signup-page.webp');
     background-position: right bottom;
     background-size: contain;
     background-repeat: no-repeat;
@@ -156,7 +157,7 @@ caption {
 
 #festival-tent > img {
     width: 100%;
-    height: 500px;
+    height: 600px;
 }
 
 .info > h1 {
