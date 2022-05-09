@@ -240,11 +240,24 @@ iframe {
         font-size: 150%;
     }
     #hero-image > div {
-        padding-bottom: 10px;
+        padding-bottom: 40px;
     
     }
     .info > h2 {
         font-size: 150%;
         padding-bottom: 20px;
+    }
+}
+@media screen and (min-width: 1450px) {
+    #hero-image > div {
+        padding-bottom: 112px;
+}
+    #hero-image h2 {
+    font-weight: 900;
+}
+}
+@media screen and (max-width: 325px) {
+    #nav-bar a {
+        font-size: 70%;
     }
 }
