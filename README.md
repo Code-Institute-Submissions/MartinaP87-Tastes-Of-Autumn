@@ -43,7 +43,6 @@ The site hopes to give a detailed idea of what the event is about and at the sam
 ### The Schedule Tables 
 - This section includes two tables with the description and times of the activities taking place during the two days 
 - The user can now have all the information about the activities of the event and what they involve. 
-SIGN-UP PAGE 
  
 ### Image Of The Festival 
 - This section will provide the user with a more concrete look at how the Festival looks like 
@@ -62,4 +61,28 @@ SIGN-UP PAGE
 - This section will provide the user with the address and a map to get to the event. 
 - The user will be able to see the location of the event through the interactive map 
 - The user will be able to open the map in a different tab, and have directions. 
+ 
+
+## Testing:  
+
+- The project has been tested on different browsers to make sure the correct functioning and the results are satisfactory in eather Chrome, Safari, Opera, Firefox  
+
+- I confirm that the site is responsive after going through all the standard portals available in devtools 
+
+- All the links work correctly. The sign-up form requires entries in all fields and the submit button performs correctly  
+
+- All the pages went through Lighthouse in devtools, giving positive results for what concern readability, colour contrast, and accessibility: 
+
+ 
+
+### Validator Testing 
+
+- HTML 
+
+No errors were returned when passing through the official W3C validator 
+
+- CSS 
+
+No errors were found when passing through the official (Jigsaw) validator 
+
  
