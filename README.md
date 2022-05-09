@@ -1,0 +1,7 @@
+*README
+
+Tastes Of Autumn is an informative website about a food festival taking place in the forest park of Vallombrosa, close to Florence, Tuscany, Italy.  
+Using the attractive topic of seasonal food made with organic and autochthonous products, the website aims to attract people to the event to keep alive traditional dishes that are disappearing from our tables, support the local community and strengthen the sense of community; through the narration of folkloristic tales talk about the history of this land, help reduce social isolation in the elderly involving them in some of the activities and finally raise environmental awareness. 
+The informal tones used in Tastes Of Autumn want to amuse the users and give an idea of a laid-back environment, making them picture the event as fun, relaxed but still culturally enriching. 
+The website targets families of the surrounding areas looking for outdoor activities; people interested in food, nature, and history; and tourists that are after a deeper understanding of the popular culture and a more immersive experience in it. 
+ The site hopes to give a detailed idea of what the event is about and at the same time stimulate users' curiosity. 

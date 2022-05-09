@@ -99,7 +99,7 @@ header {
     color: #401b0c;
 }
 footer {
-    height: 120px;
+    height: 80px;
     background-image: url(../images/footer.webp);
     background-size: cover;
     background-repeat: no-repeat;
@@ -112,7 +112,7 @@ footer {
 display: inline;
 }
 .socials i {
-font-size: 300%;
+font-size: 250%;
 
 padding: 2% 5% 0 5%;
 color: #401b0c;
@@ -236,8 +236,12 @@ iframe {
     #hero-image > div {
         padding-bottom: 40px;
     }
-    #hero-image h1 {
+    #hero-image h2 {
         font-size: 150%;
+    }
+    #hero-image > div {
+        padding-bottom: 10px;
+    
     }
     .info > h2 {
         font-size: 150%;
