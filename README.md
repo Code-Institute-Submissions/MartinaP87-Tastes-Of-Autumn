@@ -89,15 +89,16 @@ No errors were found when passing through the official (Jigsaw) validator
 
  Sometimes, when opening the website on the browser, the footer background image and the main image on the sign-up page wouldn’t load properly. 
 - I tried then reducing the size through a compression tool and changed the format from jpg to webp  
-- The drastic reduction in size corrected the issue and bettered the performance of the page  
+- The drastic reduction in size corrected the issue and bettered the performance of the page   
+
+## Deployment
 
 ## Credit:
 
 - The information for the content about Vallombrosa arboretum was taken from [Wikipedia](https://it.wikipedia.org/wiki/Arboreto_di_Vallombrosa),  
 
-- Some of the structure and contents for the README.md file; the social media links; the link for the attribute ‘action’ for the sign-up form were taken from 
-  * [Love Running](https://8000-codeinstitu-loverunning-yph0jlcnlis.ws-eu44.gitpod.io/) 
-  * [Code institute](https://codeinstitute.net/) 
+- Some of the structure and contents for the README.md file [Love Running](https://github.com/Code-Institute-Solutions/readme-template) 
+- The link for the attribute ‘action’ for the sign-up form was taken from [Code Institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/4d85cd1a2c57485abbd8ccec8c00732c/?child=last)
 
 ### Media 
 
