@@ -1,4 +1,4 @@
-# README
+# TASTES OF AUTUMN
 
 Tastes Of Autumn is an informative website about a food festival taking place in the forest park of Vallombrosa, close to Florence, Tuscany, Italy.  
 Using the attractive topic of seasonal food made with organic and autochthonous products, the website aims to attract people to the event to keep alive traditional dishes that are disappearing from our tables, support the local community and strengthen the sense of community; through the narration of folkloristic tales talk about the history of this land, help reduce social isolation in the elderly involving them in some of the activities and finally raise environmental awareness. 
@@ -79,11 +79,11 @@ The site hopes to give a detailed idea of what the event is about and at the sam
 
 - HTML 
 
-No errors were returned when passing through the official W3C validator 
+No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmartinap87.github.io%2FTastes-Of-Autumn%2F)
 
 - CSS 
 
-No errors were found when passing through the official (Jigsaw) validator 
+No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmartinap87.github.io%2FTastes-Of-Autumn%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) 
 
  ## **Bugs:**
 
