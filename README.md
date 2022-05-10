@@ -8,7 +8,7 @@ The site hopes to give a detailed idea of what the event is about and at the sam
 
 ![responsive design screenshot](assets/images/images-README/responsive-design.png)
 
-## Features:
+## **Features:**
 
 ### Navigation Bar 
 - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Schedule, and Sign Up page and is identical on each page to allow for easy navigation. 
@@ -63,7 +63,7 @@ The site hopes to give a detailed idea of what the event is about and at the sam
 - The user will be able to open the map in a different tab, and have directions. 
  
 
-## Testing:  
+## **Testing:**  
 
 - The project has been tested on different browsers to make sure the correct functioning and the results are satisfactory in eather Chrome, Safari, Opera, Firefox  
 
@@ -85,15 +85,25 @@ No errors were returned when passing through the official W3C validator
 
 No errors were found when passing through the official (Jigsaw) validator 
 
- ## Bugs:
+ ## **Bugs:**
 
  Sometimes, when opening the website on the browser, the footer background image and the main image on the sign-up page wouldn’t load properly. 
 - I tried then reducing the size through a compression tool and changed the format from jpg to webp  
 - The drastic reduction in size corrected the issue and bettered the performance of the page   
 
-## Deployment
+## **Deployment:** 
 
-## Credit:
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+- In the GitHub repository, navigate to the Settings tab 
+- On the menu on the left, under Code and Automation, click on Pages 
+- From the source section drop-down menu, select the Main Branch 
+- Once the main branch has been selected, click on Save 
+- At the top of the page will then appear the message “Your site is ready to be published at” and the url 
+- Refresh the page and the message will change to  “Your site is published at” and the active url 
+
+ **The live link can be found here - https://martinap87.github.io/Tastes-Of-Autumn/**
+
+## **Credit:**
 
 - The information for the content about Vallombrosa arboretum was taken from [Wikipedia](https://it.wikipedia.org/wiki/Arboreto_di_Vallombrosa),  
 
