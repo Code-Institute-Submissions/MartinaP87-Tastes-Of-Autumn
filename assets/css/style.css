@@ -53,7 +53,7 @@ header {
     padding-top: 10%;
 }
 #hero-image > div {
-    padding-bottom: 85px;
+    padding-bottom: 120px;
 
 }
 #hero-image h2 {
@@ -235,7 +235,7 @@ iframe {
         font-size: 100%;
     }
     #hero-image > div {
-        padding-bottom: 40px;
+        padding-top: 10px;
     }
     #hero-image h2 {
         font-size: 150%;
@@ -251,7 +251,7 @@ iframe {
 }
 @media screen and (min-width: 1450px) {
     #hero-image > div {
-        padding-bottom: 112px;
+        
 }
     #hero-image h2 {
     font-weight: 900;
@@ -260,5 +260,10 @@ iframe {
 @media screen and (max-width: 325px) {
     #nav-bar a {
         font-size: 70%;
+    }
+}
+@media screen and (max-width: 307px) {
+    #nav-bar a {
+        font-size: 50%;
     }
 }
