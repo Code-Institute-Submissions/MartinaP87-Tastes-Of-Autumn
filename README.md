@@ -85,4 +85,36 @@ No errors were returned when passing through the official W3C validator
 
 No errors were found when passing through the official (Jigsaw) validator 
 
- 
+ ## Bugs:
+
+ Sometimes, when opening the website on the browser, the footer background image and the main image on the sign-up page wouldn’t load properly. 
+- I tried then reducing the size through a compression tool and changed the format from jpg to webp  
+- The drastic reduction in size corrected the issue and bettered the performance of the page  
+
+## Credit:
+
+- The information for the content about Vallombrosa arboretum was taken from [Wikipedia](https://it.wikipedia.org/wiki/Arboreto_di_Vallombrosa),  
+
+- Some of the structure and contents for the README.md file; the social media links; the link for the attribute ‘action’ for the sign-up form were taken from 
+  * [Love Running](https://8000-codeinstitu-loverunning-yph0jlcnlis.ws-eu44.gitpod.io/) 
+  * [Code institute](https://codeinstitute.net/) 
+
+### Media 
+
+- The images were taken from 
+
+  * [Pexels](https://www.pexels.com/) 
+
+  * [Shutterstock](https://www.shutterstock.com/) 
+
+  * [Unsplash](https://unsplash.com/) 
+
+  * [Pixabay](https://pixabay.com/) 
+
+- The images were compressed in [Tinyjpg](https://tinyjpg.com/) 
+
+- The images were converted in [Ezgif](https://ezgif.com/jpg-to-webp) 
+
+- The map was taken from [Google maps](https://www.google.com/maps) 
+
+- The screenshot of the website on  different ports was from [Mockup screeen generator](https://ui.dev/amiresponsive) 
