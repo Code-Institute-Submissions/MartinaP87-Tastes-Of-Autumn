@@ -1,5 +1,7 @@
 # TASTES OF AUTUMN
 
+[View the live project here](https://martinap87.github.io/Tastes-Of-Autumn)
+
 Tastes Of Autumn is an informative website about a food festival taking place in the forest park of Vallombrosa, close to Florence, Tuscany, Italy.  
 The festival centres around seasonal food made with organic and autochthonous products. It aims to keep alive traditional dishes that are disappearing from our tables, support the local community and strengthen the sense of community. It also aims to help reduce social isolation in the elderly by involving them in some of the activities and finally raise environmental awareness. It trys to achieve this through talking about the history of this land with the help of the narration of folkloric tales.
 The website's purpose is to attract people to the event.
