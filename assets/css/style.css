@@ -178,16 +178,17 @@ caption {
     font-weight: bold;
 }
 #sign-form { 
-    width: fit-content; 
+    width: 18%; 
     margin-left: 80px; 
     border: 2px solid #813827; 
-    padding: 40px 70px; 
+    padding: 20px 40px; 
     } 
     
 #sign-form input { 
     border: 1px solid #813827;  
-    margin: 5px 0 10px 20px; 
-    display: inline-block; 
+    margin-top: 5px;
+    display: inline; 
+    float: right;
     } 
     
 #sign-form div { 
@@ -226,7 +227,8 @@ iframe {
     text-align: center;
     padding-top: 40px;
     font-family: Milonga, cursive;
-    font-weight: bold; 
+    font-weight: bold;
+    font-size: 130%; 
     width: 200px;
     height: 110px;
     border-radius: 25%;
