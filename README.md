@@ -120,7 +120,7 @@ The site hopes to give a detailed idea of what the event is about and at the sam
 </thead>
 <tbody>
 <tr>
-<td>Clic on website url</td>
+<td>Clic on website URL</td>
 <td>Open the landing page</td>
 <td>Yes</td>
 </tr>
@@ -219,37 +219,46 @@ No errors were found when passing through the official [(Jigsaw) validator](http
 ## **Deployment:** 
 
 The site was deployed to GitHub pages. The steps to deploy are as follows: 
-- In the GitHub repository, navigate to the Settings tab 
-- On the menu on the left, under Code and Automation, click on Pages 
-- From the source section drop-down menu, select the Main Branch 
-- Once the main branch has been selected, click on Save 
-- At the top of the page will then appear the message “Your site is ready to be published at” and the url 
-- Refresh the page and the message will change to  “Your site is published at” and the active url 
+- In the GitHub repository, navigate to the Settings tab;
+- On the menu on the left, under Code and Automation, click on Pages;
+- From the source section drop-down menu, select the Main Branch;
+- Once the main branch has been selected, click on Save;
+- At the top of the page will then appear the message “Your site is ready to be published at” and the URL;
+- Refresh the page and the message will change to  “Your site is published at” and the active URL.
 
  **The live link can be found here - https://martinap87.github.io/Tastes-Of-Autumn/**
 
+ ### Local Deployment
+
+To work on the code from a local device, the steps to clone the repository are as follows:
+- In the GitHub repository click the Code button, above the list of files;
+- Copy the URL displayed on the clone tab;
+- Open the terminal on your device;
+- type *git clone* and paste the URL copied earleir;
+- press enter.
+
 ## **Credit:**
 
-- The information for the content about Vallombrosa arboretum was taken from [Wikipedia](https://it.wikipedia.org/wiki/Arboreto_di_Vallombrosa),  
+- The information for the content about Vallombrosa arboretum was taken from [Wikipedia](https://it.wikipedia.org/wiki/Arboreto_di_Vallombrosa). 
 
-- Some of the structure and contents for the README.md file [Love Running](https://github.com/Code-Institute-Solutions/readme-template) 
+- Some of the structure and contents for the README.md file [Love Running](https://github.com/Code-Institute-Solutions/readme-template).
 
 ### Media 
 
 - The images were taken from:
 
-  * [Pexels](https://www.pexels.com/) 
+  * [Pexels](https://www.pexels.com/);
 
-  * [Shutterstock](https://www.shutterstock.com/) 
+  * [Shutterstock](https://www.shutterstock.com/);
 
-  * [Unsplash](https://unsplash.com/) 
+  * [Unsplash](https://unsplash.com/);
 
-  * [Pixabay](https://pixabay.com/) 
+  * [Pixabay](https://pixabay.com/);
 
-- The images were compressed in [Tinyjpg](https://tinyjpg.com/) 
+- The images were compressed in [Tinyjpg](https://tinyjpg.com/);
 
-- The images were converted in [Ezgif](https://ezgif.com/jpg-to-webp) 
+- The images were converted in [Ezgif](https://ezgif.com/jpg-to-webp);
 
-- The map was taken from [Google maps](https://www.google.com/maps) 
+- The map was taken from [Google maps](https://www.google.com/maps);
 
-- The screenshot of the website on  different ports was from [Mockup screen generator](https://ui.dev/amiresponsive) 
+- The screenshot of the website on  different ports was from [Mockup screen generator](https://ui.dev/amiresponsive). 
