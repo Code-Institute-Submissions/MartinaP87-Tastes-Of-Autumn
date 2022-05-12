@@ -238,7 +238,6 @@ iframe {
     font-size: 130%; 
     width: 200px;
     height: 110px;
-    border-radius: 25%;
     background-image: url(../images/leaves.webp);
     background-repeat: no-repeat;
     background-size: contain;
@@ -250,6 +249,14 @@ iframe {
 }
 
 
+@media screen and (min-width: 1450px) {
+    .hero-image > div {
+    padding-top: 1%;
+    }
+    .hero-image h2 {
+    font-weight: 900;
+    }
+}
 @media screen and (max-width: 673px) {
     header {
         margin: 5px;
@@ -260,17 +267,17 @@ iframe {
     #logo {
         font-size: 80%;
     }
-    #hero-image {
+    .hero-image {
         height: 200px;
         font-size: 100%;
     }
-    #hero-image > div {
+    .hero-image > div {
         padding-top: 10px;
     }
-    #hero-image h2 {
+    .hero-image h2 {
         font-size: 150%;
     }
-    #hero-image > div {
+    .hero-image > div {
         padding-bottom: 40px;
     
     }
@@ -278,24 +285,10 @@ iframe {
         font-size: 150%;
         padding-bottom: 20px;
     }
-}
-@media screen and (min-width: 1450px) {
-    #hero-image > div {
-        
-}
-    #hero-image h2 {
-    font-weight: 900;
-}
-}
-@media screen and (max-width: 325px) {
-    #nav-bar a {
-        font-size: 70%;
-    }
-}
-@media screen and (max-width: 307px) {
-    #nav-bar a {
-        font-size: 50%;
-    }
+    #home-link {
+        float: right;
+        font-size: 100%; 
+        margin-right: 20%;
 }
 @media screen  and (max-width: 397px) {
     
@@ -311,4 +304,15 @@ iframe {
         display: block; 
         text-align: left;
         } 
+}
+@media screen and (max-width: 325px) {
+    #nav-bar a {
+        font-size: 70%;
+    }
+}
+@media screen and (max-width: 307px) {
+    #nav-bar a {
+        font-size: 50%;
+    }
+}
 }
