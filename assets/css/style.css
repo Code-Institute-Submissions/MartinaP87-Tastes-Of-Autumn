@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright&family=Milonga&display=swap');
 
-
+/* Body element styling */
 * {
     margin: 0;
     padding: 0;
@@ -26,7 +26,7 @@ body {
     background-size: contain;
     background-repeat: repeat-y;
 }
-
+/* Header styling */
 header {
     margin: 30px;
 }
@@ -46,6 +46,7 @@ header {
     font-size: 120%;
     font-family: Milonga, cursive;
 }
+/* Hero images styling */
 /*The hero image was taken from Shutterstock (https://www.shutterstock.com/search/abstract%2C+aged%2C+ancient%2C+autumn%2C+backdrop%2C+background%2C+beautiful%2C+blur%2C+board%2C+bokeh%2C+border%2C+clean%2C+color%2C+colorful%2C+concept%2C+cover%2C+decoration%2C+dry%2C+fade%2C+fall%2C+foliage%2C+forest%2C+frame%2C+golden%2C+grunge%2C+leaf%2C+leaves%2C+maple%2C+natural%2C+nature%2C+old%2C+orange%2C+park%2C+pattern%2C+red%2C+rusty%2C+scenic%2C+season%2C+seasonal%2C+shiny%2C+space%2C+sunny%2C+table%2C+texture%2C+tree%2C+wall%2C+wallpaper%2C+wood%2C+wooden%2C+yellow)*/
 .hero-image { 
     height: 400px;
@@ -70,6 +71,7 @@ header {
     font-size: 220%;
     font-weight: bolder;
 }
+/* Informations (introduction and requirements) styling */
 .info {
     width: 50%;
     padding: 80px 80px 60px 80px;
@@ -83,6 +85,11 @@ header {
     text-align: right;
     background-color: #f5f5dcd6;
 }
+.info > h2 {
+    font-size: 300%;
+    font-weight: bold;
+}
+/* Links styling */
 /*The hero image was taken from Unsplash (https://unsplash.com/photos/rb5HXpLEuYo) */
 .link-box {
     display: inline-block;
@@ -109,6 +116,7 @@ header {
 .link-box a {
     color: #401b0c;
 }
+/* Footer styling */
 /* The image was taken from Pexels (https://www.pexels.com/it-it/foto/pannello-in-legno-marrone-139309/)*/
 footer {
     height: 80px;
@@ -129,7 +137,7 @@ font-size: 250%;
 padding: 2% 5% 0 5%;
 color: #401b0c;
 }
-
+/* Gallery styling */
 #photos {
     clear: both;
     line-height: 0;
@@ -142,10 +150,12 @@ color: #401b0c;
 #photos > img {
     width: 100%;
 }
+/* Intermal links styling */
 .menu > h2 {
     font-size: 400%;
     font-weight: bolder;
 }
+/* Tables styling */
 .tab {
     width:70%;
   padding: 50px 30px;
@@ -168,6 +178,7 @@ caption {
     padding-bottom: 20px;
     float: left;
 }
+/* Background Sign Up page styling */
 /*The background image was taken from Sutterstock (https://www.shutterstock.com/search/assortment%2C+autumn%2C+backdrop%2C+background%2C+beautiful%2C+border%2C+botanical%2C+bright%2C+clean%2C+closeup%2C+color%2C+colorful%2C+copy%2C+cover%2C+decoration%2C+detail%2C+dry%2C+environment%2C+environmental%2C+fade%2C+fall%2C+flora%2C+foliage%2C+forest%2C+frame%2C+golden%2C+harmony%2C+isolated%2C+leaf%2C+maple%2C+nature%2C+november%2C+orange%2C+organic%2C+pattern%2C+plant%2C+red%2C+season%2C+seasonal%2C+spase%2C+texture%2C+tree%2C+variation%2C+vein%2C+vibrant%2C+vivid%2C+wallpaper%2C+warm%2C+white%2C+yellow)*/
 #end-leaves {
     background-image: url('../images/leaves-signup-page.webp');
@@ -175,16 +186,13 @@ caption {
     background-size: contain;
     background-repeat: no-repeat;
 }
-
+/* Main image of the Sign Up page styling */
 #festival-tent > img {
     width: 100vw;
     height: 66%;
 }
 
-.info > h2 {
-    font-size: 300%;
-    font-weight: bold;
-}
+/* Sign up form styling */
 #sign-form { 
     width: fit-content; 
     margin-left: 80px; 
@@ -225,7 +233,7 @@ button:focus {
     background-color: #813827;
     color: beige;
 }
-
+/* Location and map styling */
 iframe {
     width: 50%;
     height: 300px;
@@ -236,6 +244,7 @@ iframe {
 #location {
     padding: 80px 80px 20px 80px;
 }
+/* Home link in the Sign Up page styling */
 #home-link {
     text-align: center;
     padding-top: 40px;
@@ -254,7 +263,8 @@ iframe {
    color: #401b0c;
 }
 
-
+/*Media queries*/
+/* Responsive hero image*/
 @media screen and (min-width: 1450px) {
     .hero-image > div {
     padding-top: 1%;
@@ -264,6 +274,7 @@ iframe {
     }
 }
 @media screen and (max-width: 673px) {
+    /* Responsive header*/
     header {
         margin: 5px;
     }
@@ -273,6 +284,7 @@ iframe {
     #logo {
         font-size: 80%;
     }
+    /* Responsive hero images*/
     .hero-image {
         height: 200px;
         font-size: 100%;
@@ -287,15 +299,18 @@ iframe {
         padding-bottom: 40px;
     
     }
+    /* Responsive informations (introduction and requirements)*/
     .info > h2 {
         font-size: 150%;
         padding-bottom: 20px;
     }
+    /* Responsive home link in the Sign Up page */
     #home-link {
         float: right;
         font-size: 100%; 
         margin-right: 20%;
 }
+/* Responsive sign up form*/
 @media screen  and (max-width: 397px) {
     
     #entry-fields input { 
@@ -311,6 +326,7 @@ iframe {
         text-align: left;
         } 
 }
+/* Responsive navigation bar*/
 @media screen and (max-width: 325px) {
     #nav-bar a {
         font-size: 70%;
