@@ -150,7 +150,7 @@ td, th {
     background-color: #f5f5dcd6;
     vertical-align: top; 
 }
-td > h4 {
+td > h3, h4 {
     padding: 0 30px;
 }
 .tab th {
