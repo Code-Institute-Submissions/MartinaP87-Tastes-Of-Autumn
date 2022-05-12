@@ -261,4 +261,8 @@ To work on the code from a local device, the steps to clone the repository are a
 
 - The map was taken from [Google maps](https://www.google.com/maps);
 
-- The screenshot of the website on  different ports was from [Mockup screen generator](https://ui.dev/amiresponsive). 
+- The screenshot of the website on  different ports was from [Mockup screen generator](https://ui.dev/amiresponsive);
+
+- The fonts were taken from [Google Fonts](https://fonts.google.com/);
+
+- The icons were taken from [Font Awesome](https://fontawesome.com/).

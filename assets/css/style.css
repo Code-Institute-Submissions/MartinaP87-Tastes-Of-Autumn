@@ -1,3 +1,5 @@
+/*The fonts were imported from Google Fonts (https://fonts.google.com/)*/
+
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright&family=Milonga&display=swap');
 
 
@@ -17,6 +19,7 @@ body {
     font-weight: bold;
     font-size: larger;
 }
+/*The background image was taken from Sutterstock (https://www.shutterstock.com/search/assortment%2C+autumn%2C+backdrop%2C+background%2C+beautiful%2C+border%2C+botanical%2C+bright%2C+clean%2C+closeup%2C+color%2C+colorful%2C+copy%2C+cover%2C+decoration%2C+detail%2C+dry%2C+environment%2C+environmental%2C+fade%2C+fall%2C+flora%2C+foliage%2C+forest%2C+frame%2C+golden%2C+harmony%2C+isolated%2C+leaf%2C+maple%2C+nature%2C+november%2C+orange%2C+organic%2C+pattern%2C+plant%2C+red%2C+season%2C+seasonal%2C+spase%2C+texture%2C+tree%2C+variation%2C+vein%2C+vibrant%2C+vivid%2C+wallpaper%2C+warm%2C+white%2C+yellow)*/
 .page-background {
      background-image: url(../images/leaves.webp);
     background-position: right top;
@@ -43,6 +46,7 @@ header {
     font-size: 120%;
     font-family: Milonga, cursive;
 }
+/*The hero image was taken from Shutterstock (https://www.shutterstock.com/search/abstract%2C+aged%2C+ancient%2C+autumn%2C+backdrop%2C+background%2C+beautiful%2C+blur%2C+board%2C+bokeh%2C+border%2C+clean%2C+color%2C+colorful%2C+concept%2C+cover%2C+decoration%2C+dry%2C+fade%2C+fall%2C+foliage%2C+forest%2C+frame%2C+golden%2C+grunge%2C+leaf%2C+leaves%2C+maple%2C+natural%2C+nature%2C+old%2C+orange%2C+park%2C+pattern%2C+red%2C+rusty%2C+scenic%2C+season%2C+seasonal%2C+shiny%2C+space%2C+sunny%2C+table%2C+texture%2C+tree%2C+wall%2C+wallpaper%2C+wood%2C+wooden%2C+yellow)*/
 .hero-image { 
     height: 400px;
     width: 100%;
@@ -79,7 +83,7 @@ header {
     text-align: right;
     background-color: #f5f5dcd6;
 }
-
+/*The hero image was taken from Unsplash (https://unsplash.com/photos/rb5HXpLEuYo) */
 .link-box {
     display: inline-block;
      width: 110px;
@@ -105,6 +109,7 @@ header {
 .link-box a {
     color: #401b0c;
 }
+/* The image was taken from Pexels (https://www.pexels.com/it-it/foto/pannello-in-legno-marrone-139309/)*/
 footer {
     height: 80px;
     background-image: url(../images/footer.webp);
@@ -163,6 +168,7 @@ caption {
     padding-bottom: 20px;
     float: left;
 }
+/*The background image was taken from Sutterstock (https://www.shutterstock.com/search/assortment%2C+autumn%2C+backdrop%2C+background%2C+beautiful%2C+border%2C+botanical%2C+bright%2C+clean%2C+closeup%2C+color%2C+colorful%2C+copy%2C+cover%2C+decoration%2C+detail%2C+dry%2C+environment%2C+environmental%2C+fade%2C+fall%2C+flora%2C+foliage%2C+forest%2C+frame%2C+golden%2C+harmony%2C+isolated%2C+leaf%2C+maple%2C+nature%2C+november%2C+orange%2C+organic%2C+pattern%2C+plant%2C+red%2C+season%2C+seasonal%2C+spase%2C+texture%2C+tree%2C+variation%2C+vein%2C+vibrant%2C+vivid%2C+wallpaper%2C+warm%2C+white%2C+yellow)*/
 #end-leaves {
     background-image: url('../images/leaves-signup-page.webp');
     background-position: right bottom;
