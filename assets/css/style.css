@@ -16,7 +16,9 @@ body {
     color: #813827;
     font-weight: bold;
     font-size: larger;
-    background-image: url(../images/leaves.webp);
+}
+.page-background {
+     background-image: url(../images/leaves.webp);
     background-position: right top;
     background-size: contain;
     background-repeat: repeat-y;
@@ -41,7 +43,7 @@ header {
     font-size: 120%;
     font-family: Milonga, cursive;
 }
-#hero-image { 
+.hero-image { 
     height: 400px;
     width: 100%;
     clear: both;
@@ -52,15 +54,15 @@ header {
     font-size: 150%;
     padding-top: 10%;
 }
-#hero-image > div {
+.hero-image > div {
     padding-bottom: 120px;
 
 }
-#hero-image h2 {
+.hero-image h2 {
     font-size: 220%;
     font-weight: bolder;
 }
-#hero-image h1 {
+.hero-image h1 {
     font-size: 220%;
     font-weight: bolder;
 }
@@ -178,21 +180,26 @@ caption {
     font-weight: bold;
 }
 #sign-form { 
-    width: 18%; 
+    width: fit-content; 
     margin-left: 80px; 
     border: 2px solid #813827; 
     padding: 20px 40px; 
     } 
+#entry-fields {
+    padding-bottom: 20px;
+
+}
     
-#sign-form input { 
+#entry-fields input { 
     border: 1px solid #813827;  
     margin-top: 5px;
     display: inline; 
     float: right;
+    margin-left: 20px;
     } 
     
 #sign-form div { 
-     padding-top: 3%; 
+     padding-top: 10%; 
     }
     
 button {
@@ -289,4 +296,19 @@ iframe {
     #nav-bar a {
         font-size: 50%;
     }
+}
+@media screen  and (max-width: 397px) {
+    
+    #entry-fields input { 
+        text-align: center;
+        border: 1px solid #813827;  
+        margin-top: 5px;
+        display: block;
+        padding-right: 20%;
+        } 
+    #entry-fields label {  
+        margin-top: 5px;
+        display: block; 
+        text-align: left;
+        } 
 }

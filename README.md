@@ -80,7 +80,7 @@ The site hopes to give a detailed idea of what the event is about and at the sam
 - The user will be able to specify the number of participants (up to 5) to include other non-computer-literate guests.
 - The user will be asked to submit their full name and email address. 
 
-![sign-up form screenshot](images-readme/signup-form.webp)
+![sign-up form screenshot](images-readme/sign-up-form.webp)
  
 ### The Map  
 - This section will provide the user with the address and a map to get to the event. 
@@ -93,9 +93,13 @@ The site hopes to give a detailed idea of what the event is about and at the sam
  - This section will provide the user with a confirmation of the sent form.
  - The user will get feedback that will reassure them of the success of the interaction.
 
+ ![feedback screenshot](images-readme/feedback-main.webp) 
+
  ### The Home Link
  - This section will provide the user with the link to the home page. 
  - The user will be able to proceed to the home page from which to navigate the website to not revert to the previous one. 
+
+ ![home link screenshot](images-readme/home-link.webp) 
 
 ## **Testing:**  
 
@@ -190,9 +194,10 @@ The site hopes to give a detailed idea of what the event is about and at the sam
 
 - All the pages went through Lighthouse in devtools, giving positive results for readability, colour contrast, and accessibility: 
 
-![home page screenshot](images-README/home-lighthouse.webp)
-![schedule page screenshot](images-README/schedule-lighthouse.webp)
-![sign-up page screenshot](images-README/sign-up-lighthouse.webp)
+![home page screenshot](images-readme/home-lighthouse.webp)
+![schedule page screenshot](images-readme/schedule-lighthouse.webp)
+![sign-up page screenshot](images-readme/sign-up-lighthouse.webp)
+![feedback page screenshot](images-readme/feedback-lighthouse.webp)
 
  
 ### Validator Testing 
@@ -228,7 +233,6 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - The information for the content about Vallombrosa arboretum was taken from [Wikipedia](https://it.wikipedia.org/wiki/Arboreto_di_Vallombrosa),  
 
 - Some of the structure and contents for the README.md file [Love Running](https://github.com/Code-Institute-Solutions/readme-template) 
-- The link for the attribute ‘action’ for the sign-up form was taken from [Code Institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/4d85cd1a2c57485abbd8ccec8c00732c/?child=last)
 
 ### Media 
 
