@@ -120,47 +120,47 @@ The site hopes to give a detailed idea of what the event is about and at the sam
 </thead>
 <tbody>
 <tr>
-<td>Clic on website URL</td>
+<td>Click on website URL</td>
 <td>Open the landing page</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Logo</td>
+<td>Click on Logo</td>
 <td>Open the landing page</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Home on the navigation bar</td>
+<td>Click on Home on the navigation bar</td>
 <td>Opern the landing page</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Schedule on the navigation bar</td>
+<td>Click on Schedule on the navigation bar</td>
 <td>Go to the schedule page</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Sign Up on the navigation bar</td>
+<td>Click on Sign Up on the navigation bar</td>
 <td>Go to the sign up page</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on the Schedule link on the home page</td>
+<td>Click on the Schedule link on the home page</td>
 <td>Go to the schedule page</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Sign Up link on the home page</td>
+<td>Click on Sign Up link on the home page</td>
 <td>Go to the sign up page</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Day 1 in the schedule page</td>
+<td>Click on Day 1 in the schedule page</td>
 <td>Skip to Day 1 table in the page</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Day 2 in the schedule page</td>
+<td>Click on Day 2 in the schedule page</td>
 <td>Skip to Day 2 table in the page</td>
 <td>Yes</td>
 </tr>
@@ -170,23 +170,23 @@ The site hopes to give a detailed idea of what the event is about and at the sam
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Home link in the feedback page</td>
+<td>Click on Home link in the feedback page</td>
 <td>Go to the landing page</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Facebook icon in the footer</td>
-<td>Open Facebook in the same tab</td>
+<td>Click on Facebook icon in the footer</td>
+<td>Open Facebook in a new tab</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Twitter icon in the footer</td>
-<td>Open Twitter in the same tab</td>
+<td>Click on Twitter icon in the footer</td>
+<td>Open Twitter in a new tab</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Clic on Instagram icon in the footer</td>
-<td>Open Instagram the same tab</td>
+<td>Click on Instagram icon in the footer</td>
+<td>Open Instagram in a new tab</td>
 <td>Yes</td>
 </tr>
 </tbody>
@@ -234,7 +234,7 @@ To work on the code from a local device, the steps to clone the repository are a
 - In the GitHub repository click the Code button, above the list of files;
 - Copy the URL displayed on the clone tab;
 - Open the terminal on your device;
-- type *git clone* and paste the URL copied earleir;
+- type *git clone* and paste the URL copied earlier;
 - press enter.
 
 ## **Credit:**
